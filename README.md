@@ -6,12 +6,12 @@ This is a **mobile banking application** that provides secure login, registratio
 ---
 
 ## 🚀 Features
-✅ **User Authentication** (Login & Registration)
-✅ **View Account Details** (Balance, Transactions, and More)
-✅ **Fund Transfers** between Accounts
-✅ **Transaction History**
-✅ **Secure API Communication** using JWT
-✅ **Mobile-Friendly UI**
+- ✅ **User Authentication** (Login & Registration)
+- ✅ **View Account Details** (Balance, Transactions, and More)
+- ✅ **Fund Transfers** between Accounts
+- ✅ **Transaction History**
+- ✅ **Secure API Communication** using JWT
+- ✅ **Mobile-Friendly UI**
 
 ---
 
